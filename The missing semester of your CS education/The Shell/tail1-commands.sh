@@ -1,0 +1,1 @@
+cat hello.txt >> hello1.txt           # Appent the output of the "cat hello.txt" command into "hello1.txt"
